@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  color: red;
+}
+.sub1{
+  background: red;
+}
+.sub2{
+  background: orange;
+}
+.sub3{
+  background: yellow;
+}
